@@ -1,0 +1,8 @@
+.DS_Store
+*.pem
+*.rsa
+.idea
+node_modules
+*/public
+yarn.lock
+config
