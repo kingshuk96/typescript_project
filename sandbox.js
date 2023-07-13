@@ -1,7 +1,7 @@
-var charecter = "kingshuk sanyal    ";
-console.log(charecter);
-var input = document.querySelectorAll('input');
-console.log(input);
-input.forEach(function (input) {
-    console.log(input);
-});
+var charecter = "kingshuk";
+var age = 27;
+var isBlackBelt = false;
+var circle = function (diameter) {
+    return diameter * Math.PI;
+};
+console.log(circle(12.5));
